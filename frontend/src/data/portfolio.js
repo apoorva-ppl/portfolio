@@ -116,14 +116,14 @@ export const FOCUS = [
 export const GITHUB_STATS = [
   {
     label: "stats",
-    url: "https://github-readme-stats.vercel.app/api?username=apoorva-ppl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF&rank_icon=github",
+    url: "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apoorva-ppl&theme=tokyonight",
   },
   {
     label: "streak",
-    url: "https://github-readme-streak-stats.herokuapp.com/?user=apoorva-ppl&theme=tokyonight&hide_border=true&background=050505&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF",
+    url: "https://streak-stats.demolab.com/?user=apoorva-ppl&theme=tokyonight&hide_border=true&background=050505&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF",
   },
   {
     label: "top-languages",
-    url: "https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-ppl&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F0FF&text_color=9CA3AF&langs_count=8",
+    url: "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apoorva-ppl&theme=tokyonight",
   },
 ];
